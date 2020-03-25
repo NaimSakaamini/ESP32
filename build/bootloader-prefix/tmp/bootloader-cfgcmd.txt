@@ -1,0 +1,1 @@
+cmd='C:/Users/NALSAKAAMINI/.espressif/tools/cmake/3.13.4/bin/cmake.exe;-DSDKCONFIG=C:/Users/NALSAKAAMINI/Desktop/IEQ-SLAVE/sdkconfig;-DIDF_PATH=C:/Users/NALSAKAAMINI/Desktop/esp-idf;-DSECURE_BOOT_SIGNING_KEY=C:/Users/NALSAKAAMINI/Desktop/IEQ-SLAVE;-DEXTRA_COMPONENT_DIRS=C:/Users/NALSAKAAMINI/Desktop/esp-idf/components/bootloader;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
